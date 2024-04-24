@@ -17,7 +17,7 @@
 </build>
 <distributionManagement>
     <repository>
-        <id>myRepo</id>
+        <id>Project_dp</id>
         <url>https://github.com/SarithaVemuri/Project_dp.git</url>
     </repository>
 </distributionManagement>
