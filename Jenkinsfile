@@ -12,7 +12,7 @@ environment {
         stage('build'){
             steps {
                 echo '------------------- Build Started -------------'
-                sh './mvnw clean deploy'
+                sh 'mvn clean deploy'
                 echo '------------------- Build Completed -------------'
             }
         }
